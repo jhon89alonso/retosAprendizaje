@@ -27,6 +27,7 @@ print_r("Hola ".$nombre.' '. $apellido)  ;
 <header>
     <div class="container">
         <h1> Reto 2</h1>
+        
     </div>
 </header>
     <div class="container">
